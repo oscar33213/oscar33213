@@ -1,5 +1,12 @@
 # 💫 Sobre mi:
-# ¡Hola, soy Óscar! 👋<br><br>Recien iniciado en el mundo de la programación, pero con ganas de seguir mejorando y creciendo<br><br>## 🚀 Sobre Mí<br><br>- 🌱 Actualmente estoy aprendiendo JavaScript y Typescript.<br>- 💼 Actualmente estoy en busqueda de trabajo.<br>- 📫 Cómo contactarme: oshill463@gmail.com.<br>- ⚡ Dato curioso: Soy un apasionado de los deportes, no se me dan bien practicarlos, pero me encantan.<br>## 🛠️ Habilidades<br><br>### Lenguajes de Programación<br><br>- Java -------> Medio<br>- Python -----> Medio<br>- SQL --------> Medio<br><br><br>### Frameworks y Librerías<br><br>- Django ------> Principiante<br><br><br>### Herramientas y Tecnologías<br><br>- Eclipse IDE<br>- Visual Studio Code<br><br>## 🌐 Conéctate Conmigo<br><br>- LinkedIn: [Óscar Hidalgo Llopez](www.linkedin.com/in/óscar-hidalgo-llopez-812092142)<br>- Portafolio: [Tu Portafolio Personal](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES)<br><br>## 📜 Licencia<br><br>Este perfil y sus contenidos están licenciados bajo la [Licencia MIT].<br><br>---<br><br>*[Óscar Hidalgo] - [2024]*<br><br><br>
+👋 Hola, soy Óscar Hidalgo López.
+🎓 Técnico en Desarrollo de Aplicaciones Multiplataforma | Estudiante de Máster en Ciberseguridad
+
+💻 Apasionado por el desarrollo de software con Python y Java.
+🔐 Interesado en la seguridad informática y el análisis de vulnerabilidades.
+📈 Siempre aprendiendo y trabajando en proyectos personales que puedes explorar aquí.
+
+📫 Contacto: oshill463@gmail.com
 
 
 ## 🌐 Redes Sociales:
