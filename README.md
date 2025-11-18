@@ -8,9 +8,6 @@
 
 📫 Contacto: oshill463@gmail.com  
 
-## 🌐 Redes Sociales:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ÓscarHidalgoLlopez)  
-
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -32,9 +29,6 @@
 📈 Always learning and working on personal projects, which you can explore in my [Portfolio](https://github.com/oscar33213/PROYECTOS_PERSONALES.git).  
 
 📫 Contact: oshill463@gmail.com  
-
-## 🌐 Social Media:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ÓscarHidalgoLlopez)  
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
