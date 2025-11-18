@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-👋 Hola, soy Óscar Hidalgo López.  
+👋 Hola, soy Óscar Hidalgo Llópez.  
 🎓 Técnico en Desarrollo de Aplicaciones Multiplataforma | Máster en Ciberseguridad de las Tecnologías de la Información (Calificación: 10)  
 
 💻 Especializado en desarrollo de software con **Python**, con experiencia adicional en Java.  
@@ -21,7 +21,7 @@
 <-------------------------------------------------------------------------------------->
 
 # 💫 About Me:
-👋 Hi, I'm Óscar Hidalgo López.  
+👋 Hi, I'm Óscar Hidalgo Llópez.  
 🎓 Technician in Cross-Platform Application Development | Master's in Cybersecurity of Information Technologies (Graduated with Honors, Grade: 10)  
 
 💻 Specialized in **Python** development, with additional experience in Java.  
